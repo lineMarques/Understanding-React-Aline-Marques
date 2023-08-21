@@ -1,4 +1,4 @@
-# <font color="red">Guia Básico Git e GitHub</font>
+# <font color="blue">Guia Básico Git e GitHub</font>
 
 Crie uma conta no GitHub
 
