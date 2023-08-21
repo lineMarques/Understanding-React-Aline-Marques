@@ -1,6 +1,6 @@
 # Guia Básico Git e GitHub
 
-<font color="red">This text is red!</font>
+<font color="blue">This text is red!</font>
 
 Crie uma conta no GitHub
 
