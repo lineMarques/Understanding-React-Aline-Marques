@@ -1,7 +1,5 @@
 # Guia Básico Git e GitHub
 
-<font color="blue">This text is red!</font>
-
 Crie uma conta no GitHub
 
 [www.github.com](www.github.com)
@@ -63,3 +61,6 @@ Para as próximas vezes
 ## Para vizualizar o histórico das alterações
 
 ```>git log```
+
+
+---
