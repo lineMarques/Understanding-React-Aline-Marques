@@ -18,3 +18,5 @@ Colocar a tag <link> na <head> para incluir o CSS. E a tag <script> fechamento <
 </html>
 
 Inclir também  a tag <meta name="viewport"> para um comportamento responsivo adequado em dispositivos móveis.
+
+## Se eu quiser incluir CSS a tag tem que ser antes da tag do bootstrap
